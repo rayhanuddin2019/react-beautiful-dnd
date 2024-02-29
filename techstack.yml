@@ -2,7 +2,7 @@ repo_name: rayhanuddin2019/react-beautiful-dnd
 report_id: ada56d4256f63b0940cedcf8de3dc894
 version: 0.1
 repo_type: Public
-timestamp: '2024-01-05T08:53:53+00:00'
+timestamp: '2024-02-29T18:35:57+00:00'
 requested_by: alexreardon
 provider: github
 branch: master
@@ -154,7 +154,7 @@ tools:
   last_updated_by: Alex Reardon
   last_updated_on: 2017-08-09 06:33:34.000000000 Z
 - name: Prettier
-  description: 'Prettier is an opinionated code formatter. '
+  description: Prettier is an opinionated code formatter.
   website_url: https://prettier.io/
   version: 1.18.2
   license: MIT
